@@ -21,7 +21,6 @@ var resetButton = document.querySelector("#btnReset");
 // var hardButton = document.querySelector("#btnHard");
 
 var modeButtons = document.querySelectorAll(".mode");
-
 init();
 
 //button handlers
